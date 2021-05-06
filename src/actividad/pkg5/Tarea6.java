@@ -9,15 +9,13 @@ package actividad.pkg5;
  *
  * @author Edson Coj
  */
-public class Tarea5 {
+public class Tarea6 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        int x=1;
     }
     
 }

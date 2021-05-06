@@ -96,6 +96,8 @@ public class Tarea4 {
     Preguntas[9][1] = "0";  
     
     
+    
+    
             }
             
         }
